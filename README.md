@@ -1,2 +1,2 @@
-# database-contro
+# database-control
 database connection using c++
